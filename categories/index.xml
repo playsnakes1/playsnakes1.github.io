@@ -1,0 +1,8 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Categories - 分类 - </title>
+    <link>https://github.com/playsnakes1/playsnakes1.github.io/categories/</link>
+    <description>Categories - 分类 - </description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>429612468@qq.com (playsnakes1)</managingEditor>
+      <webMaster>429612468@qq.com (playsnakes1)</webMaster><atom:link href="https://github.com/playsnakes1/playsnakes1.github.io/categories/" rel="self" type="application/rss+xml" /></channel>
+</rss>
